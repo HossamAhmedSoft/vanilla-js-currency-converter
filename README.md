@@ -42,5 +42,5 @@ python -m http.server 8080
 
 ## Author & License
 
-- **Developer:** Hossam Ahmed ([@KabtinBandar](https://github.com/KabtinBandar))
+- **Developer:** Hossam Ahmed ([@HossamAhmedSoft](https://github.com/HossamAhmedSoft))
 - **License:** MIT
